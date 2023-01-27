@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "mail.nfinic.com",
+  "port": 465,
+  "username": "receiver@troto.co",
+  "password": "rec8984vers__fks",
+  "recipientEmail": "receiver@troto.co"
+}
